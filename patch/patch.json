@@ -1,0 +1,8 @@
+{
+    "name": "Show MMS subject",
+    "description": "Shows MMS subject in SMS conversation",
+    "category": "messages",
+    "infos": {
+        "maintainer": "Mohjive"
+    }
+}
